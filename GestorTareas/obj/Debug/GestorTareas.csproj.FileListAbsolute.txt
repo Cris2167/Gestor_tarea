@@ -1,0 +1,33 @@
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.pdb
+C:\Users\LEGION\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe.config
+C:\Users\Hp Omen\Desktop\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\Hp Omen\Desktop\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\Hp Omen\Desktop\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\Hp Omen\Desktop\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\Hp Omen\Desktop\GestorTareas\obj\Debug\GestorTareas.exe.config
+C:\Users\Hp Omen\Desktop\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+C:\Users\Hp Omen\Desktop\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+C:\Users\Hp Omen\Desktop\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+C:\Users\Hp Omen\Desktop\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\Hp Omen\Desktop\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\Hp Omen\Desktop\GestorTareas\obj\Debug\GestorTareas.pdb
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\obj\Debug\GestorTareas.exe.config
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\Hp Omen\Desktop\GESTOR\GestorTareas\obj\Debug\GestorTareas.pdb
